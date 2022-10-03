@@ -1,0 +1,43 @@
+sentences
+The Patient approaches the EHCP Registration Desk
+The Patient approaches the PM-JAY Kiosk
+The Patient approaches the Call-Centre
+The Patient does the Self-Service
+"The EHCP Registration Desk does verification through the ""Am I Eligible"" App/Website"
+"The PM-JAY Kiosk checks through the ""Am I Eligible"" App/Website"
+"Call-Centre does verify through the ""Am I Eligible"" App/Website"
+"Self-Service is done through the ""Am I Eligible"" App/Website"
+"The ""Am I Eligible"" App/Website identify the PM-JAY Beneficiary"
+The PM-JAY Beneficiary goes to the PM-JAY Kiosk
+The PM-JAY Kiosk checks through the PMAM
+The PMAM verify through the BIS
+The BIS checks the eligibility of the PM-JAY Beneficiary
+The BIS creates an e-card(Golden Record)
+The PMAM informs the PM-JAY Beneficiary
+The BIS gives the e-card(Golden Record) to the PM-JAY Kiosk
+The PM-JAY Kiosk gives the e-card(Golden Record) to the PM-JAY Beneficiary
+Hospital provides standard template for Pre - authorization form
+Hospital provides standard template for the covered package-list
+The General Doctor/Specialist does consultation with the PM-JAY Beneficiary
+The PM-JAY Beneficiary is prescribed the medical drugs
+The PM-JAY Beneficiary is directed for further diagnostics
+The PM-JAY Beneficiary is directed to hospitalization
+The PM-JAY Beneficiary pays relevant charges
+The treating-doctor/Specialist fills and provides necessary documents to the PMAM
+The PMAM clicks a picture of the beneficiary
+The PMAM uploads the picture of the beneficiary to the TMS Portal
+The PMAM selects the medical packages
+The PMAM uploads the necessary documents
+The PMAM handles the follow-up queries from the ISA/Trust
+The PMAM clicks a picture of the PM-JAY beneficiary on the hospital bed
+The PMAM uploads the picture of the PM-JAY Beneficiary on the hospital bed to the TMS Portal
+The PMAM clicks a picture of the PM-JAY Beneficiary at the time of Discharge
+The PMAM uploads the picture of the PM-JAY Beneficiary at the time of Discharge to the TMS Portal
+The PMAM provides the physical copies of the documents to the PM-JAY Beneficiary
+The PMAM collects the necessary documents
+The PMAM files the claim
+The EHCP provides the relevant medication and diagnostics as per the package upto 15 days to the PM-JAY Beneficiary
+The PMAM informs about the entitlements from the EHCP to the PM-JAY Beneficiary
+The PMAM collects the feedback from the PM-JAY Beneficiary
+The Call-Centre assesses the feedback from the Beneficiary
+The SHA/NHA study the feedback from the PMAM
